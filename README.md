@@ -6,7 +6,7 @@
 
 <p align="center">
     19 y.o. <b>ITMO AI systems in Arts and Humanities</b> 2nd year:
-    <a href="https://www.google.com">CV (ru)</a> /
+    <a href="./CV (ru)">CV (ru)</a> /
     <a href="https://www.google.com">CV (eng)</a>
 </p>
 

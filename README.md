@@ -41,7 +41,7 @@
 
 
 <div id="strike stats" align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=kdduha&theme=github-light&hide_border=true&mode=weekly"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=kdduha&theme=github-light&hide_border=true&border_radius=4&mode=weekly"/>
 </div>
 
 

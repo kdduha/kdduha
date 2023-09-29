@@ -39,16 +39,9 @@
 - **Data Analytics, Data Science**
 - **Data Engineering, SQL, database design**
 
-
-<div id="strike stats" align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=kdduha&theme=github-light&hide_border=true&border_radius=4&mode=weekly"/>
-</div>
-
-
 <div id="contribution stats" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdduha&theme=github"/>
 </div>
-
 
 <div id="contribution stats" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kdduha&theme=github"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kdduha&theme=github&utcOffset=8"/>

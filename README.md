@@ -20,6 +20,9 @@
     <a href="https://scikit-image.org">
         <img src="https://img.shields.io/badge/skimage-61ca9a?style=for-the-badge" alt="skimage badge"/>
     </a>
+    <a href="https://pytorch.org/">
+        <img src="https://img.shields.io/badge/pytorch-CB2C31?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch badge"/>
+    </a>
     <a href="https://numpy.org">
         <img src="https://img.shields.io/badge/numpy-07607e?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy badge"/>
     </a>

@@ -33,7 +33,8 @@
         <img src="https://img.shields.io/badge/sreamlit-e60d1a?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit badge"/>
     </a>
 </div>
-    
+
+**My hackathon team**: [itmo.BBBB](https://github.com/itmo-BBBB)
 
 #### Interests:
 - **NLP** (natural language processing)**, LLM** (large language models)

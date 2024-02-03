@@ -11,9 +11,6 @@
 </p>
 
 <div id="stack badges" align="center">
-    <a href="https://www.python.org">
-        <img src="https://img.shields.io/badge/python-6a6a6a?style=for-the-badge&logo=python&logoColor=white" alt="python badge"/>
-    </a>
     <a href="https://scikit-learn.org">
         <img src="https://img.shields.io/badge/sklearn-597b9a?style=for-the-badge&logo=sklearn&logoColor=white" alt="sklearn badge"/>
     </a>

@@ -5,7 +5,7 @@
 <h2 align="center"> Hi there, I'm Andrew 👋 </h2>
 
 <p align="center">
-    19 y.o. <b>ITMO AI systems in Arts and Humanities</b> 2nd year:
+    20 y.o. <b>ITMO AI systems in Arts and Humanities</b> 2nd year:
     <a href="./СV (ru).pdf">CV (ru)</a> /
     <a href="./СV (en).pdf">CV (en)</a>
 </p>
@@ -17,11 +17,14 @@
     <a href="https://scikit-learn.org">
         <img src="https://img.shields.io/badge/sklearn-597b9a?style=for-the-badge&logo=sklearn&logoColor=white" alt="sklearn badge"/>
     </a>
-    <a href="https://scikit-image.org">
-        <img src="https://img.shields.io/badge/skimage-61ca9a?style=for-the-badge" alt="skimage badge"/>
-    </a>
     <a href="https://pytorch.org/">
         <img src="https://img.shields.io/badge/pytorch-CB2C31?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch badge"/>
+    </a>
+    <a href="https://huggingface.co/docs/transformers/index">
+        <img src="https://img.shields.io/badge/transformers-ffcf48?style=for-the-badge&logo=transformers&logoColor=white" alt="transformers badge"/>
+    </a>
+    <a href="https://scikit-image.org">
+        <img src="https://img.shields.io/badge/skimage-61ca9a?style=for-the-badge" alt="skimage badge"/>
     </a>
     <a href="https://numpy.org">
         <img src="https://img.shields.io/badge/numpy-07607e?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy badge"/>
@@ -38,6 +41,7 @@
 
 #### Interests:
 - **NLP** (natural language processing)**, LLM** (large language models)
+- **CV** and **TimeSeries**
 - **Classic ML**
 - **computer linguistics, math linguistics**
 - **Data Analytics, Data Science**

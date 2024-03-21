@@ -37,7 +37,7 @@
 **My hackathon team**: [itmo.BBBB](https://github.com/itmo-BBBB)
 
 #### Interests:
-- **NLP** (natural language processing)**, LLM** (large language models)
+- **NLP**, **Speech**
 - **CV** and **TimeSeries**
 - **Classic ML**
 - **computer linguistics, math linguistics**

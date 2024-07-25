@@ -59,5 +59,8 @@
     <a href="https://t.me/kdduha">
         <img src="https://img.shields.io/badge/telegram-3d85c6?style=&logo=telegram&logoColor=white" alt="telegram badge"/>
     </a>
+    <a href="https://www.linkedin.com/in/andrey-kuznetsov-bb36b931b/">
+        <img src="https://img.shields.io/badge/linkedin-3d85c6?logo=linkedin&logoColor=white"/>
+    </a>
 </div>
 

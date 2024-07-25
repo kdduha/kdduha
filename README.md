@@ -7,7 +7,7 @@
 <p align="center">
     20 y.o. <b>ITMO AI systems in Arts and Humanities</b> 2nd year:
     <a href="./СV (ru).pdf">CV (ru)</a> /
-    <a href="./СV (en).pdf">CV (en)</a>
+    <a href="./СV (eng).pdf">CV (en)</a>
 </p>
 
 <div id="stack badges" align="center">
